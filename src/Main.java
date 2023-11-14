@@ -14,5 +14,11 @@ public class Main {
         System.out.println(" Book2.yearOfPublication - " + book2.getYearOfPublication());
         book1.setYearOfPublication(2018);
         System.out.println(" New year of publication `Gull` - " + book1.getYearOfPublication());
+        System.out.println(" Новое домашнее задание ");
+        System.out.println(author1);
+        System.out.println(author2);
+        System.out.println(book1);
+        System.out.println(book2);
+
     }
 }
